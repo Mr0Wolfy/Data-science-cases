@@ -1,5 +1,5 @@
 
-data: https://drive.google.com/file/d/1Fg3bvX2NOzd3pqcEkH8-epbZFll60-36
+data: https://drive.google.com/file/d/1Fg3bvX2NOzd3pqcEkH8-epbZFll60-36  
 Описание задачи Вам нужно исследовать данные о прохождении игроками уровней match3-игры и выполнить следующие задания:
 
 Задание 1
